@@ -13,3 +13,4 @@
 - Flexbox!
 -   Containers and properties
 -   Build header and navbar with flex (feat responsive design)
+- Transitions
